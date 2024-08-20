@@ -1,0 +1,22 @@
+/* adicionando CSS com seletor tag */
+h1{
+    color: yellowgreen;
+    font-size: 20px;
+}
+p{
+    font-weight: bold;
+}
+/* adicionando CSS */
+/* com seletor 'id' */
+/* 'id' não pode ser compartilhado */
+
+#paragrafo2{
+    color:green;
+    font-weight:normal;
+}
+/* adicionando CSS  */
+/* com seletor 'class' */
+.p-texto{
+    color: rgb(66, 126, 5);
+    font-weight: normal;
+}
